@@ -1,0 +1,71 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+
+        header {
+            background-color: #8B0000;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        h2 {
+            color: #8B0000;
+        }
+
+        ul {
+            font-size: 18px;
+        }
+
+        .menu-image {
+            width: 250px;
+            height: 180px;
+            border-radius: 10px;
+            margin: 10px;
+        }
+
+        .images-container {
+            text-align: center;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+
+        .reserve-btn {
+            display: inline-block;
+            background-color: #8B0000;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+
+        .reserve-btn:hover {
+            background-color: #a52a2a;
+        }
